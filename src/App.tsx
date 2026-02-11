@@ -21,7 +21,7 @@ export default function App() {
   }
 
   return (
-    <div className="min-h-screen w-screen bg-[url('static/bg.jpg')] bg-cover bg-center">
+    <div className="min-h-screen w-screen bg-[url('https://i.yapx.ru/c5ozo.jpg')] bg-cover bg-center">
       <h1 className="text-7xl font-bold text-white text-shadow-black text-center pt-40 drop-shadow-lg text-shadow-lg">
         Ммм вы будете мои <br></br>валентином любимоти тоти? <br></br>(потыкай сначала нет)
       </h1>
