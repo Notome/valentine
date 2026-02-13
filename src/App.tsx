@@ -38,7 +38,8 @@ export default function App() {
       <div className="relative z-10 flex flex-col items-center text-center px-4">
         <h1 className="text-7xl font-bold text-white text-shadow-black text-center pt-40 drop-shadow-lg text-shadow-lg">
           Ммм вы будете мои <br />
-          валентином любимоти тоти?
+          валентином любимоти тоти? <br />
+          (потыкай сначала нет)
         </h1>
 
         <div className="flex items-center justify-center gap-8 mt-20 flex-wrap">
